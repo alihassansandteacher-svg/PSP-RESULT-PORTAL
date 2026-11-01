@@ -1,0 +1,66 @@
+gr,name,father,english,math,science,sindhi,urdu,islamiyat,sst,computer,total,percentage,grade
+323,Shahzeen,Muhammad Shakir Khan,22,25,25,25,25,25,25,25,197,98.5,A+
+345,Fatima,Muhammad Sohail Memon,23,25,25,24,25,25,25,25,197,98.5,A+
+360,Nimra Fatima,Inayatullah Lohar,21,25,22,22,25,25,25,22,187,93.5,A+
+361,Noreen,Aftab Ahmed,14.5,17,11,20,25,16,11,12,126.5,63.3,B
+799,Sanobar,Ali Asghar Chandani,20,17,13,20,22.5,25,4.5,11,133,66.5,B
+814,Samra,Abdul Khaliq Chandani,21,24,23,22,24.5,23,18,20,175.5,87.8,A+
+819,Sadia,Muhammad Saddique Memon,15,25,12,22,25,19,8.5,15,141.5,70.8,A
+821,Fiza Sanam,Shabir Ahmed Jamari,0,21,18,18,24.5,16,12,14,123.5,61.8,B
+1024,Iqra,Khalil Ahmed Khaskheli,13,23,14,18,16.5,18,7,10,119.5,59.8,C
+1025,Rubab,Aftab Ahmed,15,21,12,15,19,12,3,13,110,55.0,C
+1026,Prashi Preem,Preem Chand,22,25,25,24,24,25,23,22,190,95.0,A+
+365,Saher Fatima,Mushtaque Ahmed Lohar,22,24,25,23,20,25,23,23,185,92.5,A+
+A,nazia,Muhammad Essa,15,20,8,15,18,10,1,10,97,48.5,D
+343,Ayaz Ali,Nazir Ahmed Mirbahar,11.5,19,4,8,14.5,10,3,5,75,37.5,F
+344,Faizan Ali,Abdul Razaque Amro,18.5,21,16,17,17.5,10,21,11,132,66.0,B
+347,Ghulam Qadir Shah,Aijaz Ali Shah,13,16,5,2,11,8,6,4,65,32.5,F
+348,Hasnain Ali,Niaz Ahmed Mirbahar,0,19,0,18,17.5,24,0,9,87.5,43.8,D
+362,Ram,Bisham,11.5,14,4,0,16.5,0,11,4,61,30.5,F
+648,Qaim Ali,Ahsan Ahmed Memon,12,20,10,10,10.5,14,10,9,95.5,47.8,D
+802,Muhammad Ali,Haji Fayaz Ahmed Ghalejo,0,0,8,10,0,18,11.5,0,47.5,23.8,F
+810,Zain Ul Abdin,Murtaza Magsi,14,13,9,7,9.5,9,13,5,79.5,39.8,F
+820,Muhammad Junaid,Tufail Ahmed,18,25,20,22,25,24,21,15,170,85.0,A+
+822,Mudasir,Fazal-Ur-Rehman Bhan,19.5,14,20,21,19,22,19,9,143.5,71.8,A
+823,Hasnain Ali,Eisan Shah,0,0,0,0,18.5,0,0,10,28.5,14.3,F
+836,Zeeshan Ali,Imran Ali Lohar,10,14,8,15,11,6,7,10,81,40.5,D
+949,Furqan Ahmed Memon,Babu Fareed Ahmed,0,0,7,6,20,10,8.5,1,52.5,26.3,F
+1027,Adab Ahmed,Aftab Ahmed,20,23,21,16,20,24,20,9,153,76.5,A
+1029,Sahadat Hussain,Sajjad Hussain Jamari,16.5,25,20,20,23.5,24,21,5,155,77.5,A
+1030,Rizwan Ali,Ali Raza Sahito,11,12,10,0,22,4,12,0,71,35.5,F
+1071,Zeeshan,Muhammad Ali Jamari,15,16,17,15,0,14,8,0,85,42.5,D
+1350,Farzand Ali,Akbar Ali Samejo,0,0,0,0,0,0,0,0,0,0.0,F
+A,Gaffar,Yar Muhammad,17.5,18,15,13,0,23,0,0,86.5,43.3,D
+271,Kashish,Muhammad Uris Samoon,0,0,0,0,0,0,0,0,0,0.0,F
+341,Anmol,Aijaz Ali Khaskheli,13,17,24,25,25,24,16,15,159,79.5,A
+349,Kainat,Ahmed Ali,6,0,10,12,14,1,7,9,59,29.5,F
+357,Nabeela,Abdul Razaque Arain,21,25,22,25,25,22,18,14,172,86.0,A+
+363,Rukhsana,Ahmed Gul Rind,5,17,18,24,24.5,22,5,16,131.5,65.8,B
+366,Sandiya,Abdul Aziz Baghal,9,7,18,23,0,15,4,0,76,38.0,F
+646,Asifa,Allahdino,0,0,0,23,16,11,0,10,60,30.0,F
+649,Maherma,Abdul Rouf Chandani,7,6,2,0,17,9,5,7,53,26.5,F
+794,Afshan,Abdul Kareem,8,11,20,17,15,9,5.5,14,99.5,49.8,D
+801,Mehar-Un-Nisa,Muhamad Memon,11,14,22,24,25,9,6,16,127,63.5,B
+941,Amara,Kamran,9,14,23,21,22,19,8,10,126,63.0,B
+943,Saifa,Allah Bachayo Memon,0,0,0,0,0,0,0,0,0,0.0,F
+1041,Hoor Pari,Abdul Fatah Khaskheli,11,8,19,24,20.5,21,4.5,9,117,58.5,C
+813,Suhana,Ali Akbar Mirbahar,9,10,22,17,21,17,3,9,108,54.0,C
+356,Mushfirah,Abdul Azeem,6,6,15,25,23,24,1,23,123,61.5,B
+1032,Shaheen,Amin Jamali,12,13,20,24,21,21,12,21,144,72.0,A
+A,Areeba,Muhammad mosa,0,0,0,0,0,0,0,0,0,0.0,F
+339,Ali Muhammad,Mushtaque Shah,7,8,24,24,20,19,11,9,122,61.0,B
+370,Sudais Ahmed,Imran Ali Bhan,7,11,12,21,21,21,11,14,118,59.0,C
+375,Maher Ali,Muhammad Umar Zangejo,0,0,7,22,0,15,13,0,57,28.5,F
+651,Zeeshan,Ghulam Hussain Khaskheli,15,16,17,18,18.5,7,18,13,122.5,61.3,B
+798,Syed Moiz Shah,Mehar Ali,9,3,12,16,14,3,7,7,71,35.5,F
+804,Syed Muhammad Ali Shah Bukhari,Mairaj mateen Shah,1,8,21,8,13,2,8,8,69,34.5,F
+806,Ahmed Ali,Arshad Ali Lohar,16,15,21,20,20,11,15,7,125,62.5,B
+815,Dilawar,Ghulam Dastgheer,4,11,9,9,16,11,7,5,72,36.0,F
+942,Ahmed Hassan,Allah Dino Baran,4,5,11,8,17,4,9,12,70,35.0,F
+1032,Shaheen,Ameen Jamali,0,0,0,0,0,0,0,0,0,0.0,F
+1042,Arslan Ahmed,Jahangir Ahmed Yousif Zai,12,14,22,17,22,11,14,16,128,64.0,B
+1351,Sarfaraz Ali Soomro,Abu Bakar,16,10,14,24,23,22,8,7,124,62.0,B
+364,Saad,Mushtaque Ahmed Memon,10,22,24,24,19.5,19,8,11,137.5,68.8,B
+1449,Abdullah,Riaz Ahmed,16,23,19,20,20,7,10,15,130,65.0,B
+A,Qurban,Muhammad siddique,0,0,0,0,0,0,0,0,0,0.0,F
+797,Abdullah,Allah Dino,14,5,6,19,14,7,12,6,83,41.5,D

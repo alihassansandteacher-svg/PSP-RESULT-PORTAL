@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="People's School Sujawal City Campus result portal. Find your subject marks and download your result card.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#173e36">
+<title>Result Portal | People's School Sujawal</title>
+<link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to result search</a>
+<header class="site-header"><a class="brand" href="/" aria-label="People's School home"><span class="crest" aria-hidden="true">PS</span><span>People's School<small>SUJAWAL CITY CAMPUS</small></span></a><nav aria-label="Main navigation"><a href="#main">Results</a><a href="#help">Help & guidance</a><a href="#team">Our team</a></nav><span class="session">SESSION 2025–26</span></header>
+<main id="main">
+<section class="hero"><div class="hero-copy"><p class="eyebrow"><span></span> STUDENT RESULT PORTAL</p><h1>Every effort.<br>Every milestone.<br><em>Your progress.</em></h1><p class="intro">A new chapter starts with knowing how far you've come. Access your results and keep your next goal in sight.</p><div class="hero-note"><span aria-hidden="true">↗</span><p>Learning today.<br><strong>Leading tomorrow.</strong></p></div></div>
+<div class="search-panel"><div class="panel-top"><span class="tag">ACADEMIC RESULTS</span><span aria-hidden="true">01 / 02</span></div><h2>Find your result</h2><p>Select your class and enter your school GR number.</p>
+<form id="search-form"><label for="class">Class</label><select id="class" name="class" required disabled><option value="">Loading classes…</option></select><label for="gr">GR number</label><input id="gr" name="gr" type="text" inputmode="numeric" pattern="[0-9]{1,20}" maxlength="20" placeholder="Enter your GR number" required autocomplete="off" aria-describedby="gr-help"><small id="gr-help">Find this number on your school ID or report card.</small><button id="search-button" type="submit" disabled>View result <span aria-hidden="true">→</span></button></form>
+<p id="status" role="status" aria-live="polite"></p><div class="panel-foot">Subject marks · Grade summary · Downloadable PDF</div><noscript><p>Enable JavaScript to search for your result.</p></noscript></div></section>
+<section id="result" class="result-section" aria-labelledby="result-heading" hidden><div class="section-title"><div><p class="eyebrow">YOUR ACADEMIC RECORD</p><h2 id="result-heading" tabindex="-1">Result overview</h2></div><div class="actions"><button id="pdf-button" type="button">Download PDF ↓</button><button id="print-button" class="secondary" type="button">Print</button></div></div><article id="result-card"><div class="record-header"><div><span class="tag">SESSION 2025–26</span><h3 id="student-name"></h3><p id="student-details"></p></div><span class="record-label">RESULT CARD</span></div><dl id="summary" class="summary"></dl><table><caption>Subject-wise marks</caption><thead><tr><th scope="col">Subject</th><th scope="col">Marks obtained</th></tr></thead><tbody id="subjects"></tbody></table><p class="record-note">For any discrepancy in your result, please contact the school office.</p></article></section>
+<section id="help" class="help"><div><p class="eyebrow">A LITTLE GUIDANCE</p><h2>Your result, in three steps.</h2></div><ol><li><span>01</span><h3>Choose your class</h3><p>Select the class for the 2025–26 academic session.</p></li><li><span>02</span><h3>Enter your GR number</h3><p>Use the school registration number on your ID card.</p></li><li><span>03</span><h3>Save your progress</h3><p>View your marks, download a PDF, or print your result.</p></li></ol><details><summary>Can't find your result?</summary><p>Check your GR number and class. Results for empty classes have not been published here. If your record is missing or duplicated, contact the school office. Please do not share another student's result.</p></details></section>
+<section id="team" class="team"><p class="eyebrow">THE PEOPLE BEHIND THE PORTAL</p><h2>Leadership & development.</h2><div class="team-grid"><article><span class="initials" aria-hidden="true">AS</span><h3>Agha Samar Abbas Shah</h3><p>Director</p></article><article><span class="initials" aria-hidden="true">AM</span><h3>Agha Maheen Samar Abbas Shah</h3><p>Director</p></article><article><span class="initials" aria-hidden="true">SR</span><h3>Shahab Raza Khateeb</h3><p>Team Lead</p></article><article><span class="initials" aria-hidden="true">AB</span><h3>Abdul Basit</h3><p>Developer</p></article><article><span class="initials" aria-hidden="true">AH</span><h3>Ali Hassan</h3><p>Developer</p></article></div></section>
+</main><footer><span>People's School <small>Sujawal City Campus</small></span><p>© 2026 · All rights reserved.</p><a href="#main">Back to top ↑</a></footer>
+</body></html>
